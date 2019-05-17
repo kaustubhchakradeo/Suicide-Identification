@@ -5,13 +5,21 @@ Identification of at risk users concerning suicide
 Suicide
 
 ├── data.csv
+
 ├── Generation VS Sex.png
+
 ├── HeatMap.png
+
 ├── master.csv
+
 ├── master.csv.zip
+
 ├── Pie Chart.png
+
 ├── Rank.png
+
 ├── suicide.py
+
 └── Year Vs Suicides.png
 
 
