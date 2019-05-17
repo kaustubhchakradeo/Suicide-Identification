@@ -3,6 +3,7 @@ Identification of at risk users concerning suicide
 
 
 Suicide
+
 ├── data.csv
 ├── Generation VS Sex.png
 ├── HeatMap.png
